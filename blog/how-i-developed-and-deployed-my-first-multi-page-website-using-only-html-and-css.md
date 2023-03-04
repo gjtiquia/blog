@@ -54,6 +54,21 @@ You may have heard that [HTML, CSS and JavaScript are the basic building blocks 
   - freeCodeCamp taught semantic class names, but I have a lot of reusable components, want to make as generic as possible.
   - later on learnt that this is a utility first approach, which is exactly the same philosophy behind Tailwind CSS. 
 
+### Tips on building a multi-page website with only HTML and CSS
+
+With only HTML and CSS, most tutorials only teach you how to create a single-page website. Largely because as a website grows with more content and more pages, it becomes difficult to maintain and scale using only HTML and CSS. This gives rise to various frameworks such as React, Angular and Vue for developing a scalable website.  
+Nonetheless, it is still possible to make a simple multi-page website using only HTML and CSS. Here are a few tips that I found useful when making my own website.
+
+#### File Structure
+
+#### Styling
+- think about how to reuse styles across different pages, and create generic classes. 
+- there are in general two ways about creating classes, component based vs utility based = bootstrap vs tailwindcss. 
+- (make an illustration with the difference of component based and utility based, eg. Card)
+- When i designed my website, I didn't design them with reusable components in mind. 
+
+
+
 ## Website Domain
 
 ### What is a Domain Name?
