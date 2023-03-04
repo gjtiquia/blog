@@ -8,7 +8,7 @@ tags: {"Web Dev", "HTML", "CSS", "Netlify", "Hostinger"}
 
 # How I developed and deployed my first multi-page website using only HTML and CSS
 
-Publishing my first website is not as difficult as I thought. Here is how I created my website using only HTML and CSS, how I bought my own domain name with Hostinger and how I deploted my website on Netlify.
+As a kid I always dreamed about having my very own website. Now as I grew older,  Here is how I created my website using only HTML and CSS, how I bought my own domain name with Hostinger and how I deployed my website on Netlify.
 
 - add github repo link to exact commit, and say the website keeps on evolving as I learn more, might be updated.
 
