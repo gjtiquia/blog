@@ -18,6 +18,8 @@ As a kid I always dreamed about having my very own website. Now as I grew older,
 
 ### Why only HTML and CSS?
 
+You may have heard that [HTML, CSS and JavaScript are the basic building blocks of the Web](https://www.freecodecamp.org/news/html-css-and-javascript-explained-for-beginners/amp/). 
+
 - briefly explain what is HTML and CSS
 - motivation for making website only with HTML and CSS with nothing fancy
 
