@@ -1,6 +1,6 @@
 ---
 title: How I developed and deployed my first multi-page website using only HTML and CSS
-description:
+description: An article about learning HTML and CSS, 
 author: GJ Tiquia
 date: 2023-03-02
 tags: {"Web Dev", "HTML", "CSS", "Netlify", "Hostinger"}
