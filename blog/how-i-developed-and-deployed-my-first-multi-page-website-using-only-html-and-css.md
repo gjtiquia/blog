@@ -1,6 +1,6 @@
 ---
 title: How I developed and deployed my first multi-page website using only HTML and CSS
-description: An article about learning HTML and CSS, 
+description: An article about learning HTML and CSS, buying a domain name from Hostinger and deploying the website on Netlify.
 author: GJ Tiquia
 date: 2023-03-02
 tags: {"Web Dev", "HTML", "CSS", "Netlify", "Hostinger"}
